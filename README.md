@@ -44,19 +44,19 @@ Para poder ejecutar los ejercicios de este repositorio, necesitas tener instalad
 1.  **Clona el repositorio:**
 
     ```bash
-    git clone https://github.com/SchneiderSeba/UTN-TUPaDProgramacion1.git
+    git clone https://github.com/SchneiderSeba/UTN-TUPaDProgramacion1
     ```
 
 2.  **Navega a la carpeta de un ejercicio:**
 
     ```bash
-    cd UTN-TUPaDProgramacion1/Unidad_2_EstructurasDeControl
+    cd UTN-TUPaDProgramacion1/Unidad_1
     ```
 
 3.  **Ejecuta el script de Python:**
 
     ```bash
-    python Ejercicio1.py
+    python TP.1_Secuenciales_Sebastian_Schneider_Comision_13.py
     ```
 
 -----
