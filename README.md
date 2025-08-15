@@ -13,12 +13,12 @@ El repositorio está organizado por temas o unidades, facilitando la navegación
 
 ```
 .
-├── Unidad_1_Introduccion/
-│   ├── Ejercicio1.py
+├── Unidad_1/
+│   ├── TP.1.py
 │   ├── ...
-├── Unidad_2_EstructurasDeControl/
-│   ├── Ejercicio1.py
-│   ├── Ejercicio2.py
+├── Unidad_2/
+│   ├── TP.1.py
+│   ├── TP.2.py
 │   ├── ...
 ├── ...
 └── README.md
